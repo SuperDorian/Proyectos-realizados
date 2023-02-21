@@ -23,16 +23,6 @@ mensaje = 0;
 pinMode(Bocina,OUTPUT); // inicializar el pin de la sirena como salida 
 delay (1000);
 digitalWrite(Bocina, HIGH); //Estado inicial de la sirena 
-
-
-
-
- 
- 
-
-
-
-
 }
 
 void loop() {
